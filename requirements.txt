@@ -1,0 +1,11 @@
+# AI Interpreter Plugin for Volatility 3 - Requirements
+
+# Core dependencies
+volatility3>=2.0.0
+openai>=1.0.0
+requests>=2.25.0
+
+# Optional dependencies for development/testing
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0
